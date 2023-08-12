@@ -21,6 +21,17 @@ body {
   perspective: 1000px;
 }
 
+.title {
+  position: absolute;
+  top: 0;
+  z-index: 9999;
+  font-size: 36px;
+  /* font-family: 'Dancing Script'; */
+  font-family: 'Cute Font', cursive;
+  color: #079097;
+  letter-spacing: 2px;
+}
+
 .night {
   position: fixed;
   left: 50%;
